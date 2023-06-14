@@ -4,5 +4,5 @@
 
 ## ![Horiseon webpage screenshot](assets/images/screenshot.png)
 
-## ![horiseon marketing agency](https://livschif.github.io/refactored-marketing-webpage/)
+## (https://livschif.github.io/refactored-marketing-webpage/)
 
