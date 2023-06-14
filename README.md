@@ -1,8 +1,8 @@
 # Refactored Marketing Webpage
 
-## Added code to a marketing agencies webpage to help improve the quailty of the code anf the accesabilty of the webpage.
+## Added code to a marketing agencies webpage to help improve the quality of the code and the accessibility of the webpage.
 
-## ![Horiseon webpage screenshot](assets/images/screenshot.png)
+## ![horiseon webpage screenshot](assets/images/screenshot.png)
 
-## ![horiseon marketing agency](https://livschif.github.io/refactored-marketing-webpage/)
+## (https://livschif.github.io/refactored-marketing-webpage/)
 
